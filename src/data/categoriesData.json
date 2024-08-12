@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "name": "CSPM Executive Dashboard",
+      "widgets": [
+        {
+          "id": 1,
+          "name": "Executive 1",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, vel. Beatae accusamus vitae temporibus sunt?"
+        },
+        {
+          "id": 2,
+          "name": "Executive 2",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, vel. Beatae accusamus vitae temporibus sunt?"
+        },
+        {
+          "id": 3,
+          "name": "Executive 3",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, vel. Beatae accusamus vitae temporibus sunt?"
+        }
+      ]
+    },
+    {
+      "name": "Security Overview",
+      "widgets": [
+        {
+          "id": 1,
+          "name": "Security 1",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, vel. Beatae accusamus vitae temporibus sunt?"
+        },
+        {
+          "id": 2,
+          "name": "Security 2",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, vel. Beatae accusamus vitae temporibus sunt?"
+        },
+        {
+          "id": 3,
+          "name": "Security 3",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, vel. Beatae accusamus vitae temporibus sunt?"
+        }
+      ]
+    },
+    {
+      "name": "Compliance Summary",
+      "widgets": [
+        {
+          "id": 1,
+          "name": "Compliance 1",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, vel. Beatae accusamus vitae temporibus sunt?"
+        },
+        {
+          "id": 2,
+          "name": "Compliance 2",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, vel. Beatae accusamus vitae temporibus sunt?"
+        },
+        {
+          "id": 3,
+          "name": "Compliance 3",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, vel. Beatae accusamus vitae temporibus sunt?"
+        }
+      ]
+    }
+  ]
+}
